@@ -6,7 +6,7 @@
   <parameter name="browser" value="chrome"/>
     <classes>
       <class name="TestCases.BaseClass"/>
-      <!--class name="TestCases.LoginDDT"/>-->
+      <class name="TestCases.LoginDDT"/>
       <class name="TestCases.T002_LoginTest"/>
       <!--class name="TestCases.T003_AddLaptopToCart"/>-->
     </classes>
